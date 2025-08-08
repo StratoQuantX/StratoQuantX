@@ -42,4 +42,4 @@ Everything here is **for educational and experimental purposes only**.
 
 ---
 
-*Made with ☕, 📊, and a bit of 🤪 by StratoQuant.*
+*Made with ☕, 📊, and maybe some 🤪 by StratoQuant.*
