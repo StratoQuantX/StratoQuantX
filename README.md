@@ -2,7 +2,7 @@
 
 **Where curiosity, code, and a bit (maybe a lot) of madness meet to generate alpha.**  
 
-![StratoQuant Banner](https://via.placeholder.com/1000x250?text=StratoQuant+-+Quantitative+Trading+Collective)  
+![StratoQuant Banner]<img width="1024" height="1024" alt="StratoQuant" src="https://github.com/user-attachments/assets/074940b4-b700-4786-8716-e8722ed8d7d4" />
 
 ---
 
@@ -36,8 +36,8 @@ Everything here is **for educational and experimental purposes only**.
 ---
 
 ### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
-![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)  
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  
+![C++](https://img.shields.io/badge/C++-20-blue?logo=cplusplus)  
 ![R](https://img.shields.io/badge/R-Language-lightgrey?logo=r)  
 ![SQL](https://img.shields.io/badge/SQL-Data-orange?logo=sqlite)  
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)  
