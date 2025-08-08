@@ -2,7 +2,7 @@
 
 **Where curiosity, code, and a bit (maybe a lot) of madness meet to generate alpha.**  
 
-![StratoQuant Banner]<img width="1024" height="1024" alt="StratoQuant" src="https://github.com/user-attachments/assets/074940b4-b700-4786-8716-e8722ed8d7d4" />
+<img width="200" height="200" alt="StratoQuant" src="https://github.com/user-attachments/assets/074940b4-b700-4786-8716-e8722ed8d7d4" />
 
 ---
 
