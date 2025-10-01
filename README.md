@@ -28,7 +28,7 @@ It’s about **iteration, experimentation**, and **sharpening our skills** while
 ---
 
 ## ⚠️ Disclaimer  
-This is a **private, closed group** — we’re not recruiting and we’re not a public trading signal provider.  
+This is a **private, closed group** — we’re not actively recruiting and we’re not a public trading signal provider.  
 Everything here is **for educational and experimental purposes only**.  
 
 ---
